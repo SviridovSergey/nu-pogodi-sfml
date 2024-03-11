@@ -1,2 +1,2 @@
-*sfml  
-*C++  
+sfml  
+C++  
